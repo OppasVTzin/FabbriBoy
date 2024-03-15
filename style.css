@@ -1,0 +1,19 @@
+body{
+    background-color: aliceblue;
+    color: black;
+}
+
+.dark-mode{
+    background-color: black;
+    color: aliceblue;
+}
+
+#Boot button{
+    position: absolute;
+    top: 5px;
+    right: 20px;
+}
+
+img{
+    border: 5px dotted;
+}
