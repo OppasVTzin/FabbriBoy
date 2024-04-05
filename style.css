@@ -1,0 +1,81 @@
+
+body{
+    background: linear-gradient(aliceblue,white);
+}
+
+#Boot button{
+    position: absolute;
+    top: 5px;
+    right: 20px;
+}
+
+img{
+    height: 500px;
+    width: 100px;
+}
+
+#Mi{
+    border: 5px solid;
+}
+
+#Mi:hover{
+    border: 5px dotted;
+}
+
+.Ig{
+    border: 5px solid;
+}
+
+.Ig:hover{
+    border: 5px dotted;
+}
+
+#FB{
+    border: 5px solid;
+}
+
+#FB:hover{
+    border: 5px dotted;
+    
+}
+
+h3:hover {
+    background-color: yellow;
+    color: black;
+  }
+.Miripoll:hover{
+     background: linear-gradient(darkcyan,cyan);
+      color: red;
+      font-size: large;
+  }
+  
+.Igão:hover{
+    background: linear-gradient(Darkgreen,green);
+      color: orange;
+      font-size: large;
+  }
+.Boy:hover{
+      background: linear-gradient(red,darkred);
+      color: yellow;
+      font-size: large;
+  }
+h3{
+      color: white;
+      font:bold;
+      font-family: 'Comic Sans MS';
+  }
+.Miripoll{
+      color: white;
+      font:bold;
+      font-family: 'Comic Sans MS';
+  }
+.Boy{
+      color: white;
+      font:bold;
+      font-family: 'Comic Sans M';
+  }
+.Igão{
+      color: white;
+      font:bold;
+      font-family: 'Comic Sans M';
+  }
